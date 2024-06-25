@@ -10,3 +10,5 @@
 Springer Bioinformatics and Biomedical Engineering.
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/8-IWBBIO.pptx
 https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
+Claflin University, Orangeburg, South Carolina, USA 
+https://www.claflin.edu/
