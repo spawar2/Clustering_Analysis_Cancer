@@ -9,7 +9,7 @@ Clustering Reveals Common Check-Point and Growth Factor Receptor Genes Expressed
 [8th International Work-Conference on Bioinformatics and Biomedical Engineering, Granada, Spain, 2 February, 2020. Clustering reveals common check-point and growth factor receptor genes expressed in six different cancer types, by Pawar SD, Stanam A and Lahiri C.](https://iwbbio.ugr.es/).
 Springer Bioinformatics and Biomedical Engineering.
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/8-IWBBIO.pptx
-https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
+Video presentation: https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 Claflin University, Orangeburg, South Carolina, United States of America (USA). 
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
