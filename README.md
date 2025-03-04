@@ -11,7 +11,7 @@ Springer Bioinformatics and Biomedical Engineering.
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/8-IWBBIO.pptx
 Video presentation: https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 Claflin University, Orangeburg, South Carolina, United States of America (USA). 
-https://www.claflin.edu/
+https://www.claflin.edu/ Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 †
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
