@@ -24,6 +24,7 @@ https://www.php.net/
 https://www.mysql.com/
 https://www.mathworks.com/products/matlab.html
 
+cytoHubba: https://apps.cytoscape.org/apps/cytohubba
 https://www.r-project.org/
 https://www.bioconductor.org/packages/3.21/BiocViews.html#___Software
 https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html
