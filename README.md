@@ -13,7 +13,9 @@ Video presentation: https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=Shrik
 Claflin University, Orangeburg, South Carolina, United States of America (USA). 
 https://www.claflin.edu/ Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
-†
+† <img width="1450" height="791" alt="Screenshot 2026-05-20 at 1 56 08 AM" src="https://github.com/user-attachments/assets/fac83485-e3cd-419b-bf61-66e8ede7021c" />
+<img width="1443" height="785" alt="Screenshot 2026-05-20 at 1 54 53 AM" src="https://github.com/user-attachments/assets/cd0937e4-d34c-48fe-8682-8d0a11d6577a" />
+
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 Cancer_Clustering.R: Breast, Colon, Lung, Oesophageal, Multiple Myeloma, Ovarian Microarray data read, robust multi array (RMA) Normalization, Kmeans analysis, Hierarchal clustering, Plotting.
 selected function(merge, cluster_analysis, hclust, cutree, rbind, heatmap.2, setwd, read.csv, library, set.seed, sample.split, subset, na.omit, scale, svm, predict, table, plot).
